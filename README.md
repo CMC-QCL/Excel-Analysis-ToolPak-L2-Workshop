@@ -22,11 +22,7 @@
 * ANOVA
 
 ### References
-* [tm Package](https://towardsdatascience.com/understanding-and-writing-your-first-text-mining-script-with-r-c74a7efbe30f)
-* [sentimentr Package](https://www.youtube.com/watch?v=y21yWgMWMc8&feature=youtu.be)
-* [Cats the Movie Review](https://www.rottentomatoes.com/m/cats_2019/reviews?type=verified_audience)
-* [Jobs and Rowling Speeches](https://www.cnbc.com/2017/05/19/best-graduation-speeches-steve-jobs-j-k-rowling-says-toastmasters.html)
-* [Bike Review](https://www.amazon.com/Schwinn-Front-Suspension-Lightweight-Step-Over-Drivetrain/dp/B07NZY5HY6/ref=cm_cr_arp_d_product_top?ie=UTF8)
-* [Restaurant Review](https://www.kingandprince.com/dining-guest-reviews.aspx)
+* [Covid 19 data set](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
+* [Start-up data set](https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/owan/frames/frame.html)
 
 ###### Workshop content created by Cindy Cheng, QCL Grad Fellow, on 10/17/20
