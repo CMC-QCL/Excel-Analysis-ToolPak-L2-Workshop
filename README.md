@@ -26,7 +26,6 @@
 * [sentimentr Package](https://www.youtube.com/watch?v=y21yWgMWMc8&feature=youtu.be)
 * [Cats the Movie Review](https://www.rottentomatoes.com/m/cats_2019/reviews?type=verified_audience)
 * [Jobs and Rowling Speeches](https://www.cnbc.com/2017/05/19/best-graduation-speeches-steve-jobs-j-k-rowling-says-toastmasters.html)
-* [Covid-19 data set](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 * [Bike Review](https://www.amazon.com/Schwinn-Front-Suspension-Lightweight-Step-Over-Drivetrain/dp/B07NZY5HY6/ref=cm_cr_arp_d_product_top?ie=UTF8)
 * [Restaurant Review](https://www.kingandprince.com/dining-guest-reviews.aspx)
 
