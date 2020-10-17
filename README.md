@@ -22,7 +22,7 @@
 * ANOVA
 
 ### References
-* [Covid 19 data set](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
+* [Covid 19 data set](https://www.biorxiv.org/content/10.1101/2020.04.15.043166v2)
 * [Start-up data set](https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/owan/frames/frame.html)
 
 ###### Workshop content created by Cindy Cheng, QCL Grad Fellow, on 10/17/20
