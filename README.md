@@ -10,11 +10,11 @@
 
 ### Prerequisite
 * #### Local installation of the Microsoft Excel on own computer.
-* #### Refer to [Microsoft Analysis ToolPak](https://support.microsoft.com/en-us/office/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4)for installation
+* #### Refer to [Microsoft Analysis ToolPak](https://support.microsoft.com/en-us/office/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4) for installation
 * #### Have some basic working knowledge of Microsoft Excel.  
 * #### Introductory level knowledge in search, log-in, nagivation websites, etc.
 
-#### The workshop covers
+### The workshop covers
 * Histogram
 * Descriptive Statistics
 * F-test
